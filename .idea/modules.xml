@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TablaHash/TablaHash.iml" filepath="$PROJECT_DIR$/TablaHash/TablaHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estructura-datos-2025-b-g1.iml" filepath="$PROJECT_DIR$/.idea/estructura-datos-2025-b-g1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TablaHash/evidencias/evidencias.iml" filepath="$PROJECT_DIR$/TablaHash/evidencias/evidencias.iml" />
+    </modules>
+  </component>
+</project>
